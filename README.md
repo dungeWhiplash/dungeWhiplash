@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Ashish Parte
 - 👀 I’m interested in Data Analytics, Machine learning, Visualizing data
 - 🌱 I’m currently learning supply chain analytics
-- 📫 How to reach me: yp296@njit.edu
+- 📫 How to reach me: yashashishparte@gmail.com
 - ⚡ Fun fact: NEED TO FIX SLEEP CYCLE ASAP
 
 <!---
